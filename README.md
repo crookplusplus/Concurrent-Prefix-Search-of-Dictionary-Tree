@@ -1,0 +1,2 @@
+# Concurrent-Prefix-Search-of-Dictionary-Tree
+ This project extends the capabilities of a previous project by introducing multi-threading using pthreads. It continues to parse a text file to construct a trie data structure containing words found within the file. Additionally, it processes another text file, utilizing the created trie to efficiently determine the number of words for which the searched term serves as a prefix, all while harnessing the power of concurrent execution.
