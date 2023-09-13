@@ -2,7 +2,6 @@
 *Authored by: Chris Rook
 */
 
-
 #include "shared.h"
 #include "dictionary.h"
 #include <string>
